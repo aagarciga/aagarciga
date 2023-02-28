@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm Alex Alvarez Gárciga<br>🌎I'm from Cuba but I'm a terrible dancer<br>📖I'm currently learning Azure, DDD & Clean Architecture, and Rust for fun<br>💞I love to create frameworks, libraries, components & design systems<br>👀I'm interested in Product Design, Frontend Development & Software architecture<br>😂I have been doing this for more than ten years and still feel like I don't know anything about it
+👋Hi, I'm Alex Alvarez Gárciga<br>🌎I'm from Cuba but I'm a terrible dancer<br>💞I love to create frameworks, libraries, components & design systems<br>👀I'm interested in Product Design, Frontend Development & Software architecture<br>😂I have been doing this for over a decade and still feel like I don't know anything about it
 
 
 ## 🌐 Socials:
